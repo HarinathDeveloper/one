@@ -41,7 +41,7 @@
 	    <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
-		<url>http://repo1.maven.org/maven2</url>
+		<url>http://100.31.142.191:8081/repository/maven-deploy/</url>
 	    </pluginRepository>
 	</pluginRepositories>
 
