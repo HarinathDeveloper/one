@@ -868,7 +868,7 @@
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
-            <div class="category-card">
+            <di class="category-card">
                 <div class="category-icon"><i class="fas fa-watch"></i></div>
                 <h3>Accessories</h3>
                 <p>Complete your look</p>
