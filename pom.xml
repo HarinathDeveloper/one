@@ -26,14 +26,9 @@
 	</dependencies>
 	
 	<distributionManagement>
-		 <snapshotRepository>
-		    <id>nexusRepo</id>
-		    <url>http://34.208.218.12:8081/repository/sample-snapshots/</url>
-		 </snapshotRepository>
-		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.86.242.62:8081/repository/MySecondRepo/</url>
+		    <url>http://54.198.137.228:8081/repository/TestArtifact/</url>
 		</repository>
   	</distributionManagement>
 	
